@@ -7,15 +7,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyrodriguessantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wesley-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Wesley-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Wesley-CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="Wesley-jQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">
+   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wesley-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img align="center" alt="Wesley-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-plain.svg">
   <img align="center" alt="Wesley-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
-
+  <img align="center" alt="Wesley-CodeIgniter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
+  <img align="center" alt="Wesley-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Wesley-jQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg">
+  <img align="center" alt="Wesley-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Wesley-SQLSERVER" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
   
   ##
