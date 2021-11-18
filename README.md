@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho atualmente com análise de dados e em projetos web de cunho pessoal
 - 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por aqui</a>
-- 👨‍🎓 Finalizando o curso em Sistemas de Informação
+- 👨‍🎓 Graduando em Sistemas de Informação
 - ❤️ Apaixonado por tecnologia
 
  <div>
