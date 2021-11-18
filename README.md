@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesley Rodrigues
 
 - 🔭 Trabalho atualmente com análise de dados e em projetos web de cunho pessoal
-- 🌐 Dono e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por aqui</a>
+- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por aqui</a>
 - 👨‍🎓 Finalizando o curso em Sistemas de Informação
 - ❤️ Apaixonado por tecnologia
 
