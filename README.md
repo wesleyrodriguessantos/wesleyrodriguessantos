@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Wesley Rodrigues
 
-- 🔭 Trabalho atualmente com análise de dados e em projetos web de cunho pessoal
+- 🔭 Trabalho atualmente como engenheiro de dados na Accenture Brasil
 - 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por aqui</a>
 - 👨‍🎓 Graduando em Sistemas de Informação
 - ❤️ Apaixonado por tecnologia
