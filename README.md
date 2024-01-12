@@ -1,14 +1,14 @@
 ## Olá! Eu sou o Wesley Rodrigues
 
 - 🔭 Trabalho atualmente como engenheiro de dados na Accenture Brasil
-- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por Aqui e do site de estudos para certificações <a href ="https://www.techcertificationhelp.com/">Tech Certification Help</a>
+- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por Aqui</a> e do site de estudos para certificações <a href ="https://www.techcertificationhelp.com/">Tech Certification Help</a>
 - 👨‍🎓 Graduado em Sistemas de Informação
 - ❤️ Apaixonado por tecnologia
 
 <div>
   <a href="https://github.com/wesleyrodriguessantos">
     <img height="180em" src="https://github-readme-stats-bice-five-13.vercel.app/api?username=wesleyrodriguessantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-bice-five-13.vercel.app/api/top-langs/?username=wesleyrodriguessantos&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats-bice-five-13.vercel.app/api/top-langs/?username=wesleyrodriguessantos&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
