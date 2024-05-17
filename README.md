@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesley Rodrigues
 
 - 🔭 Trabalho atualmente como Desenvolvedor Web Full Stack na FUNAPE
-- 🌐 Sou o idealizador, mantenedor e desenvolvedor dos sites <a href ="https://estudaporaqui.com.br/">Estuda por Aqui</a>voltado para estudantes, <a href ="https://www.techcertificationhelp.com/">Tech Certification Help</a>, especializado em certificações técnicas, e <a href ="study-here.com/">Study Here</a>, focado em questões dos EUA.
+- 🌐 Sou o idealizador, mantenedor e desenvolvedor dos sites <a href ="https://estudaporaqui.com.br/">Estuda por Aqui</a>, voltado para estudantes, <a href ="https://www.techcertificationhelp.com/">Tech Certification Help</a>, especializado em questões de certificações em Tecnologia, e <a href ="study-here.com/">Study Here</a>, focado em questões acadêmicas em Inglês.
 - 👨‍🎓 Graduado em Sistemas de Informação
 - ❤️ Apaixonado por tecnologia
 
