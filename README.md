@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Wesley Rodrigues
 
-- 🔭 Trabalho atualmente como engenheiro de dados na Accenture Brasil
-- 🌐 Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por Aqui</a> e do site de estudos para certificações <a href ="https://www.techcertificationhelp.com/">Tech Certification Help</a>
+- 🔭 Trabalho atualmente como Desenvolvedor Web Full Stack na FUNAPE
+- 🌐 Sou Idealizador, mantenedor e desenvolvedor do site para estudantes <a href ="https://estudaporaqui.com.br/">Estuda por Aqui</a>, do site de estudos para certificações <a href ="https://www.techcertificationhelp.com/">Tech Certification Help</a> e também do site de estudos de questões dos EUA <a href ="study-here.com/">Study Here</a>
 - 👨‍🎓 Graduado em Sistemas de Informação
 - ❤️ Apaixonado por tecnologia
 
